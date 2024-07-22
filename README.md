@@ -67,7 +67,7 @@ With a background in computer science and extensive experience in Flutter develo
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alpeshshiyal&show_icons=true&theme=tokyonight)
 
 ## 📫 Contact Me
-- **Email**: shiyalalpesh@gmail.com(mailto:shiyalalpesh99@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/alpesh-shiyal-8572021b6/)
+- **Email**: shiyalalpesh@gmail.com 
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/alpesh-shiyal-8572021b6/)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=your-username&style=flat-square)
