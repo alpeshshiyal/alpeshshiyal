@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Alpesh Shiyal
 
-![Flutter Developer](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&width=435&lines=Flutter+Developer)
+![Flutter Developer](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=30&pause=1000&color=00FF00&width=435&lines=Flutter+Developer)
 
 I'm a dedicated Flutter developer with a passion for building high-quality mobile applications. My goal is to create seamless and engaging user experiences.
 
